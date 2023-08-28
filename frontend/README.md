@@ -52,8 +52,8 @@ npm run dev
 
 ### Dekstop Page
 
-![Dekstop](asset/desktop_view.png)
+![Dekstop](assets/desktop_view.png)
 
 ### Mobile Page
 
-![Mobile](asset/mobile_view.png)
+![Mobile](assets/mobile_view.png)
