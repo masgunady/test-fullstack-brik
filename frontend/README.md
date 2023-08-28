@@ -47,3 +47,13 @@ npm run dev
   password: "admin"
 }
 ```
+
+# Page View
+
+### Dekstop Page
+
+![Dekstop](asset/desktop_view.png)
+
+### Mobile Page
+
+![Mobile](asset/mobile_view.png)
